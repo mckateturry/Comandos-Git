@@ -212,7 +212,7 @@ git stash pop
 
 ---
 
-## ⭐ Estructura Básica
+## ⭐ Estructura Básica (siempre recordar)
 
 ```bash
 git add .
@@ -245,7 +245,3 @@ git push -u origin main
 
 -  Hacer `pull` antes de empezar a trabajar
 -  No usar `--hard` si no estoy segura
-
----
-
-✨ Hecho para aprender rápido y sin enredos.
