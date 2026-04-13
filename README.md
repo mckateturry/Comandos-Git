@@ -1,6 +1,11 @@
 # Comandos de Git
 
 > 📌 Comandos más frecuentemente usados para git y github
+```bash
+git --version	
+```
+
+🔹 Muestra la versión instalada de Git
 
 ---
 
